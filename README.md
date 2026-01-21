@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dexter
+# Hi 👋, I'm Jovarri Luis
 
 🎓 Computer Science student at University of Mindanao  
 
@@ -18,7 +18,7 @@
 ---
 
 ## 📫 How to reach me
-📧 dexterlouie022306@gmail.com
+📧 jovarric@gmail.com
 
 ---
 
