@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Dexter
 
-<!--
-**jovarriLuis/jovarriLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at University of Mindanao  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 💻 Learning software development and web technologies  
+- 📊 Interested in databases and backend logic  
+- 🌱 Currently improving my Git & GitHub skills  
+
+---
+
+## 📂 Projects
+🔗 All of my projects are available here:  
+👉 https://github.com/dexterPamittan23
+
+---
+
+## 📫 How to reach me
+📧 dexterlouie022306@gmail.com
+
+---
+
+## 🤝 Connect with me
+- Facebook  
+- Instagram  
+
+---
+
+## 🛠 Languages and Tools
+- HTML  
+- CSS  
+- Python  
+- MySQL  
